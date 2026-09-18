@@ -78,7 +78,7 @@ A quick, scannable look at what the app does.
 ## Learn more
 
 - **[Extended User Guide](user-guide)** — everything about the clock, alarms, reminders, medications, journal, and settings.
-- **[Support](support)** — email help and a short FAQ.
+- **[Support](support)** — where to find help, and a short FAQ.
 - **[Privacy Policy](privacy)** — the full details.
 
-Questions? Email **[interopware@gmail.com](mailto:interopware@gmail.com)**.
+Questions? Start with the [User Guide](user-guide) — it is also built into the app, behind the **?** on every screen — then the [Support](support) page.

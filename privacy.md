@@ -27,14 +27,14 @@ The app contains **no third-party SDKs, no advertising, no analytics, and no tra
 
 Everything you create in the app — your **alarms, reminders, medications, journal entries, and history logs** — is stored **only on your device**.
 
-## Optional backups you control
+## Optional backups, in your own iCloud
 
-The app offers optional backups so you don't lose your data:
+The app offers optional backups so you don't lose your data. They use **your own iCloud**, not any service run by the developer:
 
-- **iCloud Drive backups** are written to **your own iCloud account and iCloud Drive**.
+- **iCloud Drive backups** are written to a folder for this app in **your own iCloud Drive**, under your own Apple Account. If you use the app on more than one device, iCloud Drive carries those backups between your devices using **iOS's built-in iCloud mechanism** — the same one that syncs your photos and documents. Nothing goes through the developer: there is no developer server, and the app makes no network connection of its own. The folder is visible in the Files app, and you can delete any backup there at any time.
 - **Exported files** are JSON files that **you** export to a location **you** choose.
 
-In both cases, these backups belong to you and stay within your control. **The developer never receives, stores, or has access to any of your data** — not your on-device data and not your backups.
+Your iCloud data is protected by Apple's account security and iCloud encryption (including Advanced Data Protection, if you have turned it on). **Nobody but you can access these backups** — not the developer, and not any third party. **The developer never receives, stores, or has access to any of your data** — not your on-device data and not your backups.
 
 ## No account required
 
@@ -52,11 +52,9 @@ Nightstand Alarm and Reminders is safe for all ages and is rated **4+**. Because
 
 If this policy ever changes, the updated version will be posted on this page with a new effective date. Continued use of the app after an update means you accept the revised policy.
 
-## Contact
+## Questions
 
-If you have any questions about this policy or your privacy, please email:
-
-**[interopware@gmail.com](mailto:interopware@gmail.com)**
+If you have a question about this policy or your privacy, see the [Support](support) page for where to ask.
 
 ---
 

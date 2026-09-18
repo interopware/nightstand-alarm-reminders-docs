@@ -1,6 +1,6 @@
 ---
 title: Support
-description: Get help with Nightstand Alarm and Reminders — contact and a short FAQ.
+description: Get help with Nightstand Alarm and Reminders — where to look, and a short FAQ.
 ---
 
 # Support
@@ -9,9 +9,11 @@ Need a hand? I'm happy to help.
 
 ## Contact
 
-Email **[interopware@gmail.com](mailto:interopware@gmail.com)**. Please include your iPhone model and iOS version, and a short description of what you were doing — it helps me answer quickly.
+The **User's Guide is built into the app**: tap the **?** on any screen and it opens at the part that explains that screen, and it is searchable. The same guide is [here on the web](user-guide).
 
-There's no account and no support portal to sign into — just email.
+Found a problem or have a suggestion? [Open an issue](https://github.com/interopware/nightstand-alarm-reminders-docs/issues) on this site's repository. Please include your iPhone model and iOS version, and a short description of what you were doing.
+
+There's no account and no support portal to sign into.
 
 ## Frequently asked questions
 
@@ -49,7 +51,7 @@ Yes. In Settings, **Erase All Data** wipes your data after you type a confirmati
 
 ## More help
 
-The [User Guide](user-guide) covers every feature in depth. If it doesn't answer your question, email **[interopware@gmail.com](mailto:interopware@gmail.com)**.
+The [User Guide](user-guide) covers every feature in depth. If it doesn't answer your question, [open an issue](https://github.com/interopware/nightstand-alarm-reminders-docs/issues).
 
 ---
 
