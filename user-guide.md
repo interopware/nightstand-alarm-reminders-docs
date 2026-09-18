@@ -298,4 +298,4 @@ Nightstand Alarm and Reminders is a **free iPhone app** built for **peaceful, po
 
 - **Privacy Policy:** [privacy](privacy)
 - **Support:** [support](support)
-- **Contact:** [prakarp@gmail.com](mailto:prakarp@gmail.com)
+- **Contact:** [interopware@gmail.com](mailto:interopware@gmail.com)

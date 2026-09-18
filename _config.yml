@@ -4,8 +4,8 @@ description: >-
   sleep-friendly, and always readable. A free, fully offline iPhone app
   for peaceful, power-friendly nights.
 
-url: "https://prakarp.github.io"
-baseurl: "/Nightstand-Alarm-Clock"
+url: "https://interopware.github.io"
+baseurl: "/nightstand-alarm-reminders-docs"
 
 theme: jekyll-theme-cayman
 

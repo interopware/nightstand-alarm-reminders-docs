@@ -9,7 +9,7 @@ Need a hand? I'm happy to help.
 
 ## Contact
 
-Email **[prakarp@gmail.com](mailto:prakarp@gmail.com)**. Please include your iPhone model and iOS version, and a short description of what you were doing — it helps me answer quickly.
+Email **[interopware@gmail.com](mailto:interopware@gmail.com)**. Please include your iPhone model and iOS version, and a short description of what you were doing — it helps me answer quickly.
 
 There's no account and no support portal to sign into — just email.
 
@@ -49,7 +49,7 @@ Yes. In Settings, **Erase All Data** wipes your data after you type a confirmati
 
 ## More help
 
-The [User Guide](user-guide) covers every feature in depth. If it doesn't answer your question, email **[prakarp@gmail.com](mailto:prakarp@gmail.com)**.
+The [User Guide](user-guide) covers every feature in depth. If it doesn't answer your question, email **[interopware@gmail.com](mailto:interopware@gmail.com)**.
 
 ---
 

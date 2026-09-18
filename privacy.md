@@ -56,7 +56,7 @@ If this policy ever changes, the updated version will be posted on this page wit
 
 If you have any questions about this policy or your privacy, please email:
 
-**[prakarp@gmail.com](mailto:prakarp@gmail.com)**
+**[interopware@gmail.com](mailto:interopware@gmail.com)**
 
 ---
 

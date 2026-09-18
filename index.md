@@ -81,4 +81,4 @@ A quick, scannable look at what the app does.
 - **[Support](support)** — email help and a short FAQ.
 - **[Privacy Policy](privacy)** — the full details.
 
-Questions? Email **[prakarp@gmail.com](mailto:prakarp@gmail.com)**.
+Questions? Email **[interopware@gmail.com](mailto:interopware@gmail.com)**.
