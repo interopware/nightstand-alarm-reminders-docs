@@ -1,19 +1,19 @@
 ---
 title: Privacy Policy
-description: The privacy policy for Nightstand Alarm Clock — no data collection, no network, no tracking.
+description: The privacy policy for Nightstand Alarm and Reminders — no data collection, no network, no tracking.
 ---
 
 # Privacy Policy
 
 **Effective date: 2026**
 
-Thank you for using **Nightstand Alarm Clock**. Your privacy is not an afterthought in this app — it's the design. This policy explains, plainly, what the app does and does not do with your information.
+Thank you for using **Nightstand Alarm and Reminders**. Your privacy is not an afterthought in this app — it's the design. This policy explains, plainly, what the app does and does not do with your information.
 
 **Short version: the app collects nothing, sends nothing, and keeps everything on your device.**
 
 ## No data collection
 
-Nightstand Alarm Clock does **not** collect any personal data. It does not ask you to create an account, and no account is required to use any feature.
+Nightstand Alarm and Reminders does **not** collect any personal data. It does not ask you to create an account, and no account is required to use any feature.
 
 ## No network connections
 
@@ -46,7 +46,7 @@ By design, the app does **not** use Siri, Shortcuts, Spotlight, App Intents, or 
 
 ## Children's privacy
 
-Nightstand Alarm Clock is safe for all ages and is rated **4+**. Because the app collects no personal data and makes no network connections, it does not knowingly collect information from children or anyone else.
+Nightstand Alarm and Reminders is safe for all ages and is rated **4+**. Because the app collects no personal data and makes no network connections, it does not knowingly collect information from children or anyone else.
 
 ## Changes to this policy
 

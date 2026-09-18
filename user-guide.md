@@ -1,9 +1,9 @@
 ---
 title: User Guide
-description: The complete guide to Nightstand Alarm Clock — bedside clock, alarms, reminders, medications, journal, and settings.
+description: The complete guide to Nightstand Alarm and Reminders — bedside clock, alarms, reminders, medications, journal, and settings.
 ---
 
-# Nightstand Alarm Clock — User Guide
+# Nightstand Alarm and Reminders — User Guide
 
 *A bedside display designed for nighttime use — power-efficient, sleep-friendly, and always readable.*
 
@@ -28,11 +28,11 @@ This is the complete guide. If you just want the highlights, see the [home page 
 
 ## Getting Started
 
-Nightstand Alarm Clock is a free iPhone app that combines a calm bedside clock with alarms, reminders, medications, and a night journal. Everything runs on your device — there's no account to create and no network connection.
+Nightstand Alarm and Reminders is a free iPhone app that combines a calm bedside clock with alarms, reminders, medications, and a night journal. Everything runs on your device — there's no account to create and no network connection.
 
 A few things to do first:
 
-- **Allow notifications.** Notifications are the only way the app can alert you. When you first open the app (or add your first alarm), you'll be asked to allow notifications. If you skip this, alarms, reminders, and medication doses will not fire. You can allow them later in the iOS **Settings** app under Nightstand Alarm Clock.
+- **Allow notifications.** Notifications are the only way the app can alert you. When you first open the app (or add your first alarm), you'll be asked to allow notifications. If you skip this, alarms, reminders, and medication doses will not fire. You can allow them later in the iOS **Settings** app under Nightstand Alarm and Reminders.
 - **Explore with sample data (optional).** In the app's Settings you'll find **Add Sample Data**, which fills the app with example alarms, reminders, and journal entries so you can see how everything works. You can erase it later.
 - **Arrange your tabs.** The bottom tab bar is customizable. Pick the areas you use most — see [Settings](#settings).
 
@@ -222,7 +222,7 @@ A simple place for quick bedside notes.
 
 ## Notifications &amp; Privacy
 
-**Notifications are the only alert channel.** Alarms, reminders, and medication doses all fire through iOS notifications. You must **allow notifications** for the app or nothing will alert you. If you're not getting alerts, check the iOS **Settings** app under Nightstand Alarm Clock and make sure notifications are on.
+**Notifications are the only alert channel.** Alarms, reminders, and medication doses all fire through iOS notifications. You must **allow notifications** for the app or nothing will alert you. If you're not getting alerts, check the iOS **Settings** app under Nightstand Alarm and Reminders and make sure notifications are on.
 
 **Privacy is built in:**
 
@@ -234,7 +234,7 @@ A simple place for quick bedside notes.
 
 ## Burn-in Prevention
 
-OLED screens can develop **burn-in** if the same bright pixels stay lit in the same place for a long time — exactly the risk for a clock left on all night. Nightstand Alarm Clock avoids this in a few ways:
+OLED screens can develop **burn-in** if the same bright pixels stay lit in the same place for a long time — exactly the risk for a clock left on all night. Nightstand Alarm and Reminders avoids this in a few ways:
 
 - **The clock drifts.** The time slowly moves around the screen so no single group of pixels is lit continuously in one spot.
 - **You control the motion.** Adjust **drift speed** and the **pause between moves** so the movement suits you — slow and subtle, or a little more frequent.
@@ -294,7 +294,7 @@ Leaving a screen on all night uses power. Here's how to keep it minimal:
 
 ## About
 
-Nightstand Alarm Clock is a **free iPhone app** built for **peaceful, power-friendly nights**. It's fully offline: no network, no third-party SDKs, no account, and no tracking, ads, or analytics. All your data stays on your device, and any backups go to **your own** iCloud Drive or a JSON file you export and control.
+Nightstand Alarm and Reminders is a **free iPhone app** built for **peaceful, power-friendly nights**. It's fully offline: no network, no third-party SDKs, no account, and no tracking, ads, or analytics. All your data stays on your device, and any backups go to **your own** iCloud Drive or a JSON file you export and control.
 
 - **Privacy Policy:** [privacy](privacy)
 - **Support:** [support](support)

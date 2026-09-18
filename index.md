@@ -1,13 +1,13 @@
 ---
-title: Nightstand Alarm Clock
+title: Nightstand Alarm and Reminders
 description: A bedside display designed for nighttime use — power-efficient, sleep-friendly, and always readable.
 ---
 
-# Nightstand Alarm Clock
+# Nightstand Alarm and Reminders
 
 **A bedside display designed for nighttime use — power-efficient, sleep-friendly, and always readable.**
 
-Nightstand Alarm Clock turns your iPhone into a calm, glare-free bedside clock and puts your alarms, reminders, medications, and a quick night journal in one place. It runs fully on your device — no account, no network, no tracking — so you get **peaceful, power-friendly nights** without giving anything away.
+Nightstand Alarm and Reminders turns your iPhone into a calm, glare-free bedside clock and puts your alarms, reminders, medications, and a quick night journal in one place. It runs fully on your device — no account, no network, no tracking — so you get **peaceful, power-friendly nights** without giving anything away.
 
 It's a **free iPhone app**.
 
