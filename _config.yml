@@ -1,0 +1,20 @@
+title: Nightstand Alarm Clock
+description: >-
+  A bedside display designed for nighttime use — power-efficient,
+  sleep-friendly, and always readable. A free, fully offline iPhone app
+  for peaceful, power-friendly nights.
+
+url: "https://prakarp.github.io"
+baseurl: "/Nightstand-Alarm-Clock"
+
+theme: jekyll-theme-cayman
+
+# Cayman shows these buttons in the page header.
+show_downloads: false
+
+# Files that don't need to be processed into the site.
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
