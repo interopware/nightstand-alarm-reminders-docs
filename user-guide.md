@@ -148,15 +148,15 @@ Each reminder is one of two kinds:
   - an **expiry** (after which it counts as missed),
   - optional **evidence** you can attach when you complete it.
 
-### Plans
+### Categories
 
-Group related reminders into a **Plan** — for example, a "Knee recovery" plan that gathers all the exercises and check-ins for that goal. Plans give you a shared color default and a place to see everything for one goal together.
+Group related reminders into a **Category** — for example, a "Knee recovery" category that gathers all the exercises and check-ins for that goal. Categories give you a shared color default and a place to see everything for one goal together.
 
 ### Color coding
 
 Colors cascade so the most specific setting wins:
 
-**occurrence color → overrides → reminder color → overrides → plan default**
+**occurrence color → overrides → reminder color → overrides → category default**
 
 Choose from **12 presets** or a **custom** color.
 
@@ -170,8 +170,8 @@ Choose from **12 presets** or a **custom** color.
 - **Month calendar view** — see reminders laid out across the month.
 - **Due list** — what needs attention now, with **Mark Done**, **Snooze**, and **Silence** actions.
 - **History log** — a timestamped record of every event: notified, done, snoozed, silenced, and missed.
-- **Adherence reports** — see how consistently you're keeping up, both **per reminder** and **per plan**.
-- **Search** — find reminders by **name**, **notes**, or **plan**.
+- **Adherence reports** — see how consistently you're keeping up, both **per reminder** and **per category**.
+- **Search** — find reminders by **name**, **notes**, or **category**.
 
 ---
 

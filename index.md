@@ -44,7 +44,7 @@ A quick, scannable look at what the app does.
 ### Reminders
 - Three ways to schedule: **Once**, **Repeats** (calendar rules), or a **Sequence** of specific dates.
 - Each reminder is a plain nudge or an **accountable task** with a deadline, expiry, and optional evidence.
-- Group related reminders into **Plans** (like "Knee recovery"), with a month calendar, a due list, and adherence reports.
+- Group related reminders into **Categories** (like "Knee recovery"), with a month calendar, a due list, and adherence reports.
 - Color coding, 8 built-in tones plus custom audio, and "Ring until stopped" escalation for critical items.
 
 ### Medications
