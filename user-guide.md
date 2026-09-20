@@ -28,7 +28,7 @@ This is the complete guide. If you just want the highlights, see the [home page 
 
 ## Getting Started
 
-Nightstand Alarm and Reminders is a free iPhone app that combines a calm bedside clock with alarms, reminders, medications, and a night journal. Everything runs on your device — there's no account to create and no network connection.
+Nightstand Alarm and Reminders is a free app for iPhone and iPad that combines a calm bedside clock with alarms, reminders, medications, and a night journal. Everything runs on your device — there's no account to create and no network connection.
 
 A few things to do first:
 
@@ -262,6 +262,7 @@ Leaving a screen on all night uses power. Here's how to keep it minimal:
 **Tab bar**
 
 - The **bottom tab bar is customizable.** Choose up to **5** of: Home, Alarms, Reminders, Meds, Journal, Settings. Anything you don't pin lives in the **☰ menu**, so the app stays tidy and focused on what you use.
+- **On an iPad** in full screen there is no bar and no ☰: a sidebar on the left lists every section, and Meds and Reminders show their doses, lists and calendar side by side. Night Mode and the Home clock draw larger to fill the bigger screen.
 
 **History retention**
 
@@ -294,7 +295,7 @@ Leaving a screen on all night uses power. Here's how to keep it minimal:
 
 ## About
 
-Nightstand Alarm and Reminders is a **free iPhone app** built for **peaceful, power-friendly nights**. It's fully offline: no network, no third-party SDKs, no account, and no tracking, ads, or analytics. All your data stays on your device, and any backups go to **your own** iCloud Drive or a JSON file you export and control.
+Nightstand Alarm and Reminders is a **free app for iPhone and iPad** built for **peaceful, power-friendly nights**. It's fully offline: no network, no third-party SDKs, no account, and no tracking, ads, or analytics. All your data stays on your device, and any backups go to **your own** iCloud Drive or a JSON file you export and control.
 
 - **Privacy Policy:** [privacy](privacy)
 - **Support:** [support](support)

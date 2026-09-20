@@ -11,7 +11,7 @@ Need a hand? I'm happy to help.
 
 The **User's Guide is built into the app**: tap the **?** on any screen and it opens at the part that explains that screen, and it is searchable. The same guide is [here on the web](user-guide).
 
-Found a problem or have a suggestion? [Open an issue](https://github.com/interopware/nightstand-alarm-reminders-docs/issues) on this site's repository. Please include your iPhone model and iOS version, and a short description of what you were doing.
+Found a problem or have a suggestion? [Open an issue](https://github.com/interopware/nightstand-alarm-reminders-docs/issues) on this site's repository. Please include your iPhone or iPad model and iOS version, and a short description of what you were doing.
 
 There's no account and no support portal to sign into.
 
